@@ -1,1 +1,5 @@
-# Design-Patterns-2019B-II
+# Design-Patterns-2019
+## Singleton
+## Facade
+## Proxy
+## factory
